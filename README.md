@@ -6,3 +6,4 @@ git add .  提交新文件(new)和被修改(modified)文件，不包括被删除
 
 git status  查看本地仓库状态
 
+git remote -v  查看远程仓库的情况
